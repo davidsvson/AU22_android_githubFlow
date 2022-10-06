@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
     }
 }
 
+//Hejhopp
 
 //1. en person skapar projektet
 //2. samma person gör en git init
