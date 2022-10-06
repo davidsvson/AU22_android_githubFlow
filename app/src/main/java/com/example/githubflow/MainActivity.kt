@@ -13,8 +13,8 @@ class MainActivity : AppCompatActivity() {
 
 //Hejhopp
 
-//1. en person skapar projektet
-//2. samma person gör en git init
-//3. samma person skapar ett projekt på github och pushar upp projektet
+//1. en person gaeskapageaager projektet
+//2. samma person gör en eageaggit init
+//3. samma person skapar ett projaegaeageekt på github och pushar upp projektet
 
-//4. alla andra person gör en clone
+//4. alla andra person gör en cloneaijfaegng
