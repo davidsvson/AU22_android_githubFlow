@@ -18,3 +18,6 @@ class MainActivity : AppCompatActivity() {
 //3. samma person skapar ett projaegaeageekt på github och pushar upp projektet
 
 //4. alla andra person gör en cloneaijfaegng
+//5. alla skapar sin egen branch (git checkout -b branchname)
+//6. gör förändringar
+
